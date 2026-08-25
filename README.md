@@ -5,7 +5,7 @@ Este projeto apresenta uma arquitetura baseada em agentes para sistemas RAG (Ret
 ## 🏗 Arquitetura do Sistema
 
 ![General workflow of the proposed architecture, encompassing data ingestion, the agentic core, and the application.](assets/workflow.png)
-*(Se você salvar a imagem em outra pasta ou com outro nome, lembre-se de alterar o caminho `assets/workflow.png` acima)*
+*Fig 1. General workflow of the proposed architecture, encompassing data ingestion, the agentic core, and the application.*
 
 O fluxo de trabalho do sistema é dividido em três fases principais[cite: 2]:
 
